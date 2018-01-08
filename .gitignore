@@ -1,0 +1,8 @@
+/files/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+*.zip
+*.gz
+*.txt
